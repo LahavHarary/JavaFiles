@@ -1,0 +1,7 @@
+{
+    "_listeningPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Development\\Java files project\\src",
+    "_destPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Development\\Java files project",
+    "_color":"blue",
+    "_sleepTime": 100000000000
+
+}

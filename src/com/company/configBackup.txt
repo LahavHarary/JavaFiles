@@ -1,0 +1,4 @@
+<ConfigObject>
+    <_listeningPath>C:\Users\lahav\OneDrive\Desktop\Development\Java files project\src</_listeningPath>
+    <_destPath>C:\Users\lahav\OneDrive\Desktop\Development\Java files project</_destPath>
+</ConfigObject>

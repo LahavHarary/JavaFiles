@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public interface IReporter {
 
-    public void updateReport(String message) throws IOException;
+    public void updateReport(FileDetails fileDetails) throws IOException;
 
     public void createEmptyReport() throws IOException;
 

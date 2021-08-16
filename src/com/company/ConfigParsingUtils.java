@@ -61,8 +61,8 @@ XML FILES:
 
     private static ConfigObject readJSON() throws JsonParseException, JsonMappingException, IOException{
         ObjectMapper mapper = new ObjectMapper();
-        ConfigObject configObject = mapper.readValue(new File("C:\\Users\\" +
-                "lahav\\IdeaProjects\\FilesMediatorNew\\src\\com\\company\\config.txt"), ConfigObject.class);
+        ConfigObject configObject = mapper.readValue(new File("C:\\Users\\lahav\\IdeaProjects\\FilesMediatorNew\\src\\com\\company" +
+                "\\config.txt"), ConfigObject.class);
         return configObject;
     }
 

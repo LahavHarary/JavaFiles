@@ -1,7 +1,9 @@
 {
-    "_listeningPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Development\\Java files project\\src",
-    "_destPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Development\\Java files project",
+    "_listeningPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Lahav\\Development\\Java files project\\src",
+    "_destPath":"C:\\Users\\lahav\\OneDrive\\Desktop\\Lahav\\Development\\Java files project",
     "_color":"blue",
-    "_sleepTime": 100000000000
+    "_sleepTime": 100000000000,
+    "_checkFileForVirus": "icon.png"
 
 }
+

@@ -6,6 +6,7 @@ public class ConfigObject {
     private long _sleepTime;
     private String _color;
     private Colors _enumColors;
+    private String _checkFileForVirus;
 
     public ConfigObject() {
 
@@ -33,6 +34,8 @@ public class ConfigObject {
         setEnumColors();
         return _enumColors;
     }
+    public String get_checkFileForVirus(){return _checkFileForVirus;}
+
 
     public void set_listeningPath(String listeningPath) {
         _listeningPath = listeningPath;
@@ -58,4 +61,6 @@ public class ConfigObject {
         }
 
     }
+    public void set_checkFileForVirus(String checkFileForVirus){_checkFileForVirus = checkFileForVirus;}
+
 }

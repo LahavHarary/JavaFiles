@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="file://$USER_HOME$/OneDrive/Desktop/jar_files" />
@@ -15,6 +15,15 @@
         <JAVADOC />
         <SOURCES />
         <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/jar_files" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="file://$USER_HOME$/OneDrive/Desktop/jar_files/poi-4.1.2/docs/apidocs/dev" />
+        </JAVADOC>
+        <SOURCES />
       </library>
     </orderEntry>
   </component>

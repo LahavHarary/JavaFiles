@@ -5,7 +5,7 @@ I made this project in order to study a little bit about threads and object orie
 # Summary
 At first, files are inside source file.
 The program takes those files and checks if any of them is an image if so it will filter them according to configuration.
-later on the program will place the files according to file extension in premade folders (and if the folders aren't made it will create them).
+later on the program will place the files according to file extension in premade folders (and if the folders doesn't exist it will create them).
 The program will create a word file with detailed explanation about what it has done.
 
 # Pictures and explanation
